@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 # singapore.m3u
   
 #EXTINF:-1 tvg-id="Ch 5" group-title="Singapore" tvg-logo="https://raw.githubusercontent.com/chin8205/iptv/master/logos/channel-5.png",Channel 5 
