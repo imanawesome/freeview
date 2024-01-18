@@ -39,7 +39,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 tvg-id="TVS" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vcyu6IazQN2QH0v43Z06ag", "kid":"w+lWs4rpk74UlMfPoXsREA" } ], "type":"temporary" }
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
 #EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="http://www.tvikim.my/images/logo-header-02.png",TVIKIM
