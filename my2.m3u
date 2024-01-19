@@ -105,10 +105,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default_primary.m
 #EXTINF:-1 tvg-id="CGTN" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=7edf3bd590cf337f721a2e5bec361510&key13bb829ce4836ccf74071c45993978c5
 #EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png",DW
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=3b0c1cebd0c4518d600f52c354ed1910&key76d409ffc4eaa012c61d8c31bd13df5d
