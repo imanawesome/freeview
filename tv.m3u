@@ -1,5 +1,3 @@
-#EXTM3U x-tvg-url="https://fvtv.mywire.org/my/tv.xml.gz?secret=PPPPPP" tvg-url="https://fvtv.mywire.org/my/tv.xml.gz?secret=PPPPPP"
-
 #EXTM3U x-tvg-url=https://aqfadtv.xyz/epg refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="TV1" group-title="Malaysia" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1
