@@ -6,18 +6,15 @@ https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=204&type=hls
 #EXTINF:-1 tvg-id=" " group-title="Indonesia" tvg-logo="https://www.indosiar.com/assets/logo.png",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=205&type=hls
-#EXTINF:-1 tvg-id=" " group-title="Indonesia" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",NET
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/NetTV-HD
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 tvg-id="NET.id" group-title="Indonesia" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",NET
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/NET.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/RCTI_2015.svg/400px-RCTI_2015.svg.png",RCTI
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/RCTI-DD
 # https://nyanv-live-cdn.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-id=" " group-title="Indonesia" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",Kompas TV
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="Indonesia" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",Kompas TV
 https://github.com/AqFad2811/randomlivefromyt2/raw/main/KompasTV.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Indonesia" tvg-logo="https://www.beritasatu.com/assets/img/news_logo.png",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
@@ -48,11 +45,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/GTV-HD
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-id=" " group-title="Indonesia" tvg-logo="https://asset.viva.co.id/appasset-2018/responsive-2018/img/logo-tvone.png",tvOne
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/TVOne
-https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 tvg-id="tvOne.id" group-title="Indonesia" tvg-logo="https://asset.viva.co.id/appasset-2018/responsive-2018/img/logo-tvone.png",tvOne
+https://github.com/AqFad2811/randomlivefromyt3/raw/main/tvOne.m3u8
 #EXTINF:-1 tvg-id=" " group-title="Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/400px-Antv_logo.svg.png",ANTV 
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -68,3 +62,5 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/visionplus/iNewsTV-HDD
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mp
+
+
