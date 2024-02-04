@@ -29,20 +29,21 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 ## TV
 | Channel Name | Source |
 |--|--|
-| TV1 | RTM Klik `Direct Link` |
-| TV2 | RTM Klik `Direct Link` |
-| TV3 | Tonton  `Direct Link` |
+| TV1 | Astro GO/RTM Klik `Direct Link` |
+| TV2 | Astro GO/RTM Klik `Direct Link` |
+| TV3 | Astro GO/Tonton  `Direct Link` |
 | Drama Sangat | Tonton  `Direct Link` |
-| DidikTV KPM | Tonton  `Direct Link` |
-| 8TV | Tonton  `Direct Link` |
-| TV9 | Tonton  `Direct Link` |
-| OKEY | RTM Klik `Direct Link` |
+| DidikTV KPM | Astro GO/Tonton  `Direct Link` |
+| 8TV | Astro GO/Tonton  `Direct Link` |
+| TV9 | Astro GO/Tonton  `Direct Link` |
+| OKEY | Astro GO/RTM Klik `Direct Link` |
 | Sukan RTM | RTM Klik `Direct Link` |
+| Awesome TV | Astro GO  `Direct Link` |
 | TV6 | RTM Klik `Direct Link` |
-| TV AlHijrah | Mana2 `Direct Link` |
+| TV AlHijrah | Astro GO/Mana2 `Direct Link` |
 | Suke TV | Mana2 `Direct Link` | 
-| TVS | Livestream using Astro's official source (GO Shop?) `@V-T-E-R Static Playlist` |
-| BERNAMA | Mana2 `Direct Link` |
+| TVS | Astro GO/Mana2 `Direct Link` |
+| BERNAMA | Astro GO/Mana2 `Direct Link` |
 | Berita RTM | RTM Klik `Direct Link` |
 | Astro AEC | Astro GO/Sooka  `Direct Link` |
 | Astro Arena | Astro GO/Sooka  `Direct Link` |
@@ -60,6 +61,13 @@ Special OTT channels by broadcasters (RTM, Media Prima, etc.) will be labeled un
 | Suria | meWATCH  `Direct Link` |
 | Vasantham | meWATCH  `Direct Link` |
 | CNA | Astro GO/CNA/playTV@unifi//Mana2/meWATCH  `Direct Link` |
+| Bloomberg | Astro GO  `Direct Link` |
+| CGTN | Astro GO  `Direct Link` |
+| DW | Astro GO  `Direct Link` |
+| France24 | Astro GO  `Direct Link` |
+| Sky News | Astro GO  `Direct Link` |
+| Al Jazeera | Astro GO  `Direct Link` |
+| CCTV4 | Astro GO  `Direct Link` |
 ### Unavailable channels
  - Awesome TV (No legal / official source, although this channel can be found on illegal sources - Astro / myFreeview has it)
 ## Radio
