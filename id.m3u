@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://fvtv.mywire.org/id/tv.xml.gz?secret=PPPPPP" tvg-url="https://fvtv.mywire.org/id/tv.xml.gz?secret=PPPPPP"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 #EXTINF:-1 tvg-id="SCTV.id" group-title="Indonesia" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
