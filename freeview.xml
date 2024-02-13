@@ -27,21 +27,6 @@
     <display-name lang="en">CNA</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
-    <channel id="TV1">
-    <display-name lang="en">TV1</display-name>
-    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
-  </channel>
-  <channel id="TV2">
-    <display-name lang="en">TV2</display-name>
-    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
-  </channel>
-  <channel id="Okey">
-    <display-name lang="en">Okey</display-name>
-    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
-    <url>http://www.rtmklik.rtm.gov.my</url>
-  </channel>
   <channel id="Sukan RTM">
     <display-name lang="en">Sukan RTM</display-name>
     <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
@@ -322,17 +307,17 @@
     <icon src="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" />
     <url>http://www.mncvision.id</url>
   </channel>
-  <channel id="101.astro">
+  <channel id="TV1">
     <display-name lang="en">TV1 HD</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="102.astro">
+  <channel id="TV2">
     <display-name lang="en">TV2 HD</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="103.astro">
+  <channel id="TV3">
     <display-name lang="en">TV3</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" />
     <url>http://www.astro.com.my</url>
@@ -377,22 +362,22 @@
     <icon src="https://telegra.ph/file/b98309b1149a14d39490f.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="146.astro">
+  <channel id="OKEY">
     <display-name lang="en">TV Okey</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="147.astro">
+  <channel id="DidikTVKPM">
     <display-name lang="en">DidikTV KPM</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="148.astro">
+  <channel id="8TV">
     <display-name lang="en">8TV</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="149.astro">
+  <channel id="TV9">
     <display-name lang="en">TV9</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" />
     <url>http://www.astro.com.my</url>
@@ -527,44 +512,9 @@
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="ROCK">
-    <display-name lang="en">CLASSIC ROCK</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" />
-    <url>http://www.astro.com.my</url>
-  </channel>
-  <channel id="GOLD">
-    <display-name lang="en">GOLD</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" />
-    <url>http://www.astro.com.my</url>
-  </channel>
-  <channel id="OPUS">
-    <display-name lang="en">OPUS</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" />
-    <url>http://www.astro.com.my</url>
-  </channel>
   <channel id="GEGAR">
     <display-name lang="en">THR GEGAR</display-name>
     <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" />
-    <url>http://www.astro.com.my</url>
-  </channel>
-  <channel id="INDIA">
-    <display-name lang="en">INDIA BEAT</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" />
-    <url>http://www.astro.com.my</url>
-  </channel>
-  <channel id="JAZZ">
-    <display-name lang="en">JAZZ</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" />
-    <url>http://www.astro.com.my</url>
-  </channel>
-  <channel id="OSAI">
-    <display-name lang="en">OSAI</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" />
-    <url>http://www.astro.com.my</url>
-  </channel>
-  <channel id="BAYU">
-    <display-name lang="en">BAYU</display-name>
-    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" />
     <url>http://www.astro.com.my</url>
   </channel>
   <channel id="KENYALANG">
@@ -639,6 +589,18 @@
     <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
   </programme>
   <programme start="20240227000000 +0000" stop="20240227235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+  <programme start="20240228000000 +0000" stop="20240228235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+    <programme start="20240229000000 +0000" stop="20240229235900 +0000" channel="CHN">
+    <title lang="en">Channel Information Not Available</title>
+    <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
+  </programme>
+    <programme start="20240301000000 +0000" stop="20240301235900 +0000" channel="CHN">
     <title lang="en">Channel Information Not Available</title>
     <desc lang="en">There are no channel informations for this channel yet.(n)</desc>
   </programme>
