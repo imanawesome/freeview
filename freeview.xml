@@ -1,1 +1,581 @@
-
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Ch 5">
+    <display-name lang="en">Channel 5</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Ch 8">
+    <display-name lang="en">Channel 8</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Ch U">
+    <display-name lang="en">Channel U</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Suria">
+    <display-name lang="en">Suria</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="Vasantham">
+    <display-name lang="en">Vasantham</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+  <channel id="CNA">
+    <display-name lang="en">CNA</display-name>
+    <url>http://www.singteltv.com.sg</url>
+  </channel>
+    <channel id="TV1">
+    <display-name lang="en">TV1</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv1_Trans.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="en">TV2</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv2_Trans.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Okey">
+    <display-name lang="en">Okey</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/okey_Trans.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Sukan RTM">
+    <display-name lang="en">Sukan RTM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/sukan_Trans.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Berita RTM">
+    <display-name lang="en">Berita RTM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/berita_bckg.jpg" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="TV6">
+    <display-name lang="en">TV6</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/tv6_Trans.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Dewan Rakyat">
+    <display-name lang="en">Dewan Rakyat</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0live_channel/7.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Dewan Negara">
+    <display-name lang="en">Dewan Negara</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/PDN_Trans.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Radio Klasik">
+    <display-name lang="en">Radio Klasik</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/thumbnail_Radio_1920x1080px_Radio_Klasik_FM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Nasional FM">
+    <display-name lang="en">Nasional FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/thumbnail_Radio_1920x1080px_Nasional_FM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Traxx FM">
+    <display-name lang="en">Traxx FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/thumbnail_Radio_1920x1080px_Traxx_FM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="AI FM">
+    <display-name lang="en">AI FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/thumbnail_Radio_1920x1080px_Ai_FM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Minnal FM">
+    <display-name lang="en">Minnal FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/thumbnail_Radio_1920x1080px_Minnal_FM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Asyik FM">
+    <display-name lang="en">Asyik FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0radio-asset/ASYIK_FM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Sarawak FM">
+    <display-name lang="en">Sarawak FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/SelangorFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Labuan FM">
+    <display-name lang="en">Labuan FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/SabahVFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Kedah FM">
+    <display-name lang="en">Kedah FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/SarawakFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="KL FM">
+    <display-name lang="en">KL FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/LABUANfm.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Kelantan FM">
+    <display-name lang="en">Kelantan FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/KedahFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Terengganu FM">
+    <display-name lang="en">Terengganu FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/KLFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Pahang FM">
+    <display-name lang="en">Pahang FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/KELANTANfm.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Johor FM">
+    <display-name lang="en">Johor FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/TerengganuFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Negeri FM">
+    <display-name lang="en">Negeri FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/PahangFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Perak FM">
+    <display-name lang="en">Perak FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Mutiara FM">
+    <display-name lang="en">Mutiara FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/NegeriSembilanFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Perlis FM">
+    <display-name lang="en">Perlis FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/PerakFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Melaka FM">
+    <display-name lang="en">Melaka FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/MUTIARAFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Sabah FM">
+    <display-name lang="en">Sabah FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/PerlisFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Wai FM">
+    <display-name lang="en">Wai FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/MELAKAfm.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Red FM">
+    <display-name lang="en">Red FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/SabahFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Langkawi FM">
+    <display-name lang="en">Langkawi FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/WaiFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Limbang FM">
+    <display-name lang="en">Limbang FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/RedFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Miri FM">
+    <display-name lang="en">Miri FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/LANGKAWIfm.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Sri Aman FM">
+    <display-name lang="en">Sri Aman FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/LIMBANGfm.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Bintulu FM">
+    <display-name lang="en">Bintulu FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/MIRIfm.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Sibu FM">
+    <display-name lang="en">Sibu FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/SriAmanFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Sandakan FM">
+    <display-name lang="en">Sandakan FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/BintuluFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Tawau FM">
+    <display-name lang="en">Tawau FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/SibuFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Keningau FM">
+    <display-name lang="en">Keningau FM</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/SandakanFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Wai FM Iban">
+    <display-name lang="en">Wai FM Iban</display-name>
+    <icon src="https://rtm-images.glueapi.io/480x0/live_channel/TawauFM.png" />
+    <url>http://www.rtmklik.rtm.gov.my</url>
+  </channel>
+  <channel id="Indosiar.id">
+    <display-name lang="id">Indosiar</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/Indosiar.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="RCTI.id">
+    <display-name lang="id">RCTI</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_80.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="GTV.id">
+    <display-name lang="id">GTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_81.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNCTV.id">
+    <display-name lang="id">MNCTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_82.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="iNews.id">
+    <display-name lang="id">iNews</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_83.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TransTV.id">
+    <display-name lang="id">Trans TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_87.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SCTV.id">
+    <display-name lang="id">SCTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/sctv.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="tvOne.id">
+    <display-name lang="id">tvOne</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/tvone.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BeritaSatuNewsChannel.id">
+    <display-name lang="id">Berita Satu</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_103.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="KompasTV.id">
+    <display-name lang="id">Kompas TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_106.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MetroTV.id">
+    <display-name lang="id">Metro TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/metro_tv.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Trans7.id">
+    <display-name lang="id">Trans 7</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_110.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="JakTV.id">
+    <display-name lang="id">JAKTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_113.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ANTV.id">
+    <display-name lang="id">ANTV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_115.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NET.id">
+    <display-name lang="id">Net TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_116.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TVRI.id">
+    <display-name lang="id">TVRI</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_118.jpg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="RTV.id">
+    <display-name lang="id">RTV</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/0/08/Rajawali_Televisi_2014_below.svg/revision/latest?cb=20200922072814" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Arirang">
+    <display-name lang="id">Arirang TV</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_351.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="NHKWorldJapan">
+    <display-name lang="id">NHK World</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_355.jpeg" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="101">
+    <display-name lang="en">TV1 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="102">
+    <display-name lang="en">TV2 HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="en">TV3</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVAlhijrah">
+    <display-name lang="en">Al-Hijrah</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/149_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVS">
+    <display-name lang="en">TVS</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AwesomeTV">
+    <display-name lang="en">Awesome TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Filem Mantap">
+    <display-name lang="en">Filem Mantap</display-name>
+    <icon src="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Drama Hebat">
+    <display-name lang="en">Drama Hebat</display-name>
+    <icon src="https://telegra.ph/file/d2f120faedec1a128846b.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Drama Hotpot">
+    <display-name lang="en">Drama Hotpot</display-name>
+    <icon src="https://telegra.ph/file/444552edb8dc56b75f79e.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="Lawak Sentral">
+    <display-name lang="en">Lawak Sentral</display-name>
+    <icon src="https://telegra.ph/file/12bc717e3ee372f2a62e8.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Travel & Taste">
+    <display-name lang="en">Travel & Taste</display-name>
+    <icon src="https://telegra.ph/file/b98309b1149a14d39490f.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="OKEY">
+    <display-name lang="en">TV Okey</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/467_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DidikTVKPM">
+    <display-name lang="en">DidikTV KPM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="8TV">
+    <display-name lang="en">8TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV9">
+    <display-name lang="en">TV9</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/48_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AstroVaanavil">
+    <display-name lang="en">Astro Vaanavil</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/397_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="AstroAEC">
+    <display-name lang="en">Astro AEC HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="CCTV4">
+    <display-name lang="en">CCTV4</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/385_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="NHKWorldPremium">
+    <display-name lang="en">NHK World HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="AstroAwani">
+    <display-name lang="en">Astro Awani</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BernamaTV">
+    <display-name lang="en">BERNAMA</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="en">CGTN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/426_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AlJazeeraEnglish">
+    <display-name lang="en">Al Jazeera English</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/374_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SkyNews">
+    <display-name lang="en">Sky News</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CNA">
+    <display-name lang="en">CNA HD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/295_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BloombergTV">
+    <display-name lang="en">Bloomberg TV</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/422_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ABCAustralia">
+    <display-name lang="en">ABC Australia</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/461_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="en">DW</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="France24">
+    <display-name lang="en">France24</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/289_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="CGTNDocumentary">
+    <display-name lang="id">CGTN Documentary</display-name>
+    <icon src="https://mncvision.id/userfiles/image/channel/channel_205.png" />
+    <url>http://www.mncvision.id</url>
+  </channel>
+    <channel id="CBeebies">
+    <display-name lang="en">CBeebies</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="ParamountNetwork">
+    <display-name lang="en">Paramount Network</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/448_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="AstroArena">
+    <display-name lang="en">Astro Arena</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="HITZ">
+    <display-name lang="en">HITZ FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MY">
+    <display-name lang="en">MY FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="LITE">
+    <display-name lang="en">LITE FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/19_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MIX">
+    <display-name lang="en">MIX FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ERA">
+    <display-name lang="en">ERA FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SINAR">
+    <display-name lang="en">SINAR FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MELODY">
+    <display-name lang="en">MELODY FM</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="RAAGA">
+    <display-name lang="en">THR RAAGA</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ROCK">
+    <display-name lang="en">CLASSIC ROCK</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/20_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GOLD">
+    <display-name lang="en">GOLD</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/21_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="OPUS">
+    <display-name lang="en">OPUS</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/16_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GEGAR">
+    <display-name lang="en">THR GEGAR</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="INDIA">
+    <display-name lang="en">INDIA BEAT</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/23_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="JAZZ">
+    <display-name lang="en">JAZZ</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/24_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="OSAI">
+    <display-name lang="en">OSAI</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/27_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BAYU">
+    <display-name lang="en">BAYU</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/31_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="KENYALANG">
+    <display-name lang="en">KENYALANG</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/32_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+    <channel id="ZAYAN">
+    <display-name lang="en">ZAYAN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GOXUAN">
+    <display-name lang="en">GO XUAN</display-name>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/293_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
